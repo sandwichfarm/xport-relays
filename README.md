@@ -4,7 +4,7 @@ highly optimized single-file client-side relay checker with no dependencies writ
 
 [Site](https://relays.xport.top)
 
-**This is a Mirror/Placeholder repo since this code is not version controlled.**
+**This is a Mirror/Placeholder repo. When author publishes repo, this will be removed and their HEAD forked.**
 
 # Source-code modifications
 - none. 
