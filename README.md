@@ -11,4 +11,4 @@ Author:		@vir2alexport
 Date:		Feb 14 2024 
 License:	https://creativecommons.org/licenses/by/4.0/legalcode	
 ```
-[License](./LICENSE)
+[License](./LICENSE.md)
