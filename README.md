@@ -1,6 +1,6 @@
 # `xport-relays`
 
-highly optimized single-file client-side relay checker with no dependencies written by [vir2alexport](https://xport.top). 
+highly optimized single-file client-side relay checker with no dependencies written by [vir2alexport](https://xport.top). This repository is in no way endorsed by the author. 
 
 [Site](https://relays.xport.top)
 
